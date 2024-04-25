@@ -7,3 +7,6 @@
 [submodule "functional/purescript"]
 	path = functional/purescript
 	url = https://github.com/nkarl/learn.purescript
+[submodule "low-level/cpp"]
+	path = low-level/cpp
+	url = https://github.com/nkarl/learn.cpp
