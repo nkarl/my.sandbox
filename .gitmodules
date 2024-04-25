@@ -4,3 +4,6 @@
 [submodule "low-level/rust"]
 	path = low-level/rust
 	url = https://github.com/nkarl/learn.rust
+[submodule "functional/purescript"]
+	path = functional/purescript
+	url = https://github.com/nkarl/learn.purescript
